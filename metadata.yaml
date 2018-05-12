@@ -1,0 +1,30 @@
+_repo: Tales-from--Blackwood---Volume-2_32186
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: 'Lazaro''s legacy: a tale of the siege of Gibraltar / E.B. Hamley
+  -- A story without a tail / Dr. Maginn -- The enchanter Faustus and Queen Elizabeth
+  -- How I became a yeoman / Professor Aytoun -- Devereux Hall / Mrs. Southey -- The
+  metempsychosis / Robert Macnish -- College theatricals.'
+title: Tales from "Blackwood," Volume 2
+url: http://www.gutenberg.org/ebooks/32186
